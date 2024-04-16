@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const cmenItems = document.querySelectorAll("#shopcat #cmen");
     const cwomenItems = document.querySelectorAll("#shopcat #cwomen");
 
+    
     // Function to show all items
     function showAllItems() {
         cmenItems.forEach(function(item) {
